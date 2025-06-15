@@ -1,6 +1,6 @@
 - 👋 Hi, I’m amir mohammad zare zadeh
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and CCNP
 - 📫 How to reach me amzarezadeh.ir
 
 <!---
